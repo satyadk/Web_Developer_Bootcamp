@@ -1,0 +1,24 @@
+csszengarden.com
+http://colours.neilorangepeel.com/
+http://www.graphicsbeam.com/
+https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+
+<link rel="stylesheet" type="text/css" href="app.css">
+
+<style type="text/css">
+</style>
+
+
+Define different RGB colors with opacity ( values 0-1 like percentage):
+#p1 {background-color: rgba(255, 0, 0, 0.3);}   /* red with 
+
+selectors  :
+
+tag :  h1 td body ( all the matchin tags )
+id:  #Special ( matches only the id. Only one id )
+class: .highlight ( matches all the class )
+
+
+Resume :
+MegaNavbar (v 2.2.0). Advanced Mega Menu for Bootstrap 3.0+
+https://www.memrise.com/course/18097/an-introduction-to-regular-expressions/

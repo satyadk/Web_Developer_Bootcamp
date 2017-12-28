@@ -1,0 +1,24 @@
+<!DOCTYPE html> - html 5 
+<strong> bold
+<em> italic
+<input type="text" placeholder="username">
+
+<table>
+	<thead>
+
+	</thead>
+	<tbody>
+	</tbody>
+</table>
+
+<div> - block container 
+<span> - inline container 
+
+required - makes input mandatory 
+
+<button></button>
+<input type=email required > validates  email format 
+<input type="password" name="pass" minlength = 5 maxlength = 7 required >
+
+
+csszengarden.com

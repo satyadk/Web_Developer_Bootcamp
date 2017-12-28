@@ -1,0 +1,25 @@
+li	 {
+	color: orange;
+}
+
+h1 {
+	color: purple;
+	border: 2px solid orange;
+}
+
+h4 {
+	color: green;
+}
+
+body {
+/*background: url(https://pre00.deviantart.net/c5fc/th/pre/f/2014/053/e/2/free_space_galaxy_texture_by_lyshastra-d77gh54.jpg);
+background-repeat: no-repeat;
+background-size: cover;*/
+}
+
+div{
+background: #3498db;
+}
+p {
+color: #ecf0f1;
+}
