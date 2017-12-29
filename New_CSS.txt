@@ -2,6 +2,8 @@ csszengarden.com
 http://colours.neilorangepeel.com/
 http://www.graphicsbeam.com/
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
+fonts.google.com
+https://css-tricks.com/examples/hrs/
 
 <link rel="stylesheet" type="text/css" href="app.css">
 
@@ -18,6 +20,10 @@ tag :  h1 td body ( all the matchin tags )
 id:  #Special ( matches only the id. Only one id )
 class: .highlight ( matches all the class )
 
+em - font relative size 
+line-height : same as line spacing in word
+
+width: 50% ( 50% of the parent element)
 
 Resume :
 MegaNavbar (v 2.2.0). Advanced Mega Menu for Bootstrap 3.0+
