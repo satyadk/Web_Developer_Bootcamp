@@ -28,3 +28,36 @@ width: 50% ( 50% of the parent element)
 Resume :
 MegaNavbar (v 2.2.0). Advanced Mega Menu for Bootstrap 3.0+
 https://www.memrise.com/course/18097/an-introduction-to-regular-expressions/
+
+Flexbox : 
+In parent add:  
+
+display: flex;
+justify-content: space-between;  // space between tow divs 
+
+In child add :  
+
+flex: 1; // equal width divs, takes 100% of space
+flex-basis:30%  // div width 
+flex-wrap:wrap;
+
+Handle screen size :
+@media ( min-width: 900px) {
+.calls_out_container {
+	// Flex settings appied only when the screen size is mininmum 900 pixel.
+	display: flex;
+	justify-content: space-between;  // space between tow divs 
+}
+}
+
+
+
+https://themes.3rdwavemedia.com/sphere/bs4/2.1/#
+http://wrapbootstrap.com/preview/WB0168548
+http://www.styleshout.com/templates/preview/Ceevee10/#home
+
+Free
+https://blackrockdigital.github.io/startbootstrap-stylish-portfolio/#
+https://themes.3rdwavemedia.com/website-templates/devaid-free-bootstrap-theme-developers/
+https://themes.3rdwavemedia.com/demo/devaid/
+
